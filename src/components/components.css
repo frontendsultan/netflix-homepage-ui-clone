@@ -1,0 +1,17 @@
+
+
+.offer__dialog {
+    background-image: radial-gradient(#FF9900,#E50914,#0E1B4F,#000413);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:144px;
+    position: relative;
+    bottom:72px;
+}
+
+.section {
+    /* min-height: 557px; */
+    min-height: 100vh;
+}
+
